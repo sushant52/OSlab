@@ -1,0 +1,15 @@
+Line number : 1 is NOT PRIME, written by thread : 139801836955392
+Line number : 2 is PRIME, written by thread : 139801828562688
+Line number : 3 is PRIME, written by thread : 139801828562688
+Line number : 4 is NOT PRIME, written by thread : 139801836955392
+Line number : 5 is PRIME, written by thread : 139801828562688
+Line number : 6 is NOT PRIME, written by thread : 139801836955392
+Line number : 7 is PRIME, written by thread : 139801828562688
+Line number : 8 is NOT PRIME, written by thread : 139801836955392
+Line number : 9 is NOT PRIME, written by thread : 139801836955392
+Line number : 10 is NOT PRIME, written by thread : 139801836955392
+Line number : 11 is PRIME, written by thread : 139801828562688
+Line number : 12 is NOT PRIME, written by thread : 139801836955392
+Line number : 13 is PRIME, written by thread : 139801828562688
+Line number : 14 is NOT PRIME, written by thread : 139801836955392
+Line number : 15 is NOT PRIME, written by thread : 139801836955392

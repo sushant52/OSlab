@@ -1,0 +1,1 @@
+            sprintf(filename,"%d.txt",i);   // Making the file name

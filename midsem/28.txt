@@ -1,0 +1,1 @@
+        fgets(buffer, MAX_LENGTH, fptr);    // Store one line in buffer

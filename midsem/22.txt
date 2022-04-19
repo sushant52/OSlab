@@ -1,0 +1,1 @@
+    while(fgets(buffer, MAX_LENGTH, fptr))  // Count number of lines
